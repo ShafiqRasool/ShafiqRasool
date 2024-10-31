@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShafiqRasool
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning in Riphah International University
+- 👀 I’m an android developer
 - 💞️ I’m looking to collaborate on a Good team
-- 📫 phone/whatsapp :03174940495
+- 📫 phone/whatsapp: +92 317 4940495
 -    linkedIn:   https://www.linkedin.com/in/shafiq-rasool-6981011b9/      
 
 <!---
