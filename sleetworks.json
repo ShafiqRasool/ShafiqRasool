@@ -1,7 +1,0 @@
-{
-  "com.sleetworks.serenity.android": {
-    "minVersionCode": 101,
-    "enable": true,
-    "force": true
-  }
-}
